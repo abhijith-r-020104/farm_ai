@@ -646,6 +646,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'DM Sans', sans-serif;
 }
 
+/*newly added by me*/
+.title-font{
+  font-size: 30px;
+  font-family: poppins;
+  font-weight:bold;
+  color:#398e69;
+}
+
 .static{
   position: static;
 }
